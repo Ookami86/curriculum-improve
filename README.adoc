@@ -37,7 +37,7 @@ FIXME: Currently no documents are generated, as the travis-CI build is unfinishe
 --
 [source,shell]
 ----
-git clone git@github.com/isaqb-org/curriculum-improve.git --recursive
+git clone --recursive git@github.com/isaqb-org:curriculum-improve.git
 ----
 --
 2. Build it with gradle via `./gradle`.
